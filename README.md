@@ -3,7 +3,10 @@ Hi! Fengyi extends greetings to U. Here is my profile.
 
 # Hi there, I'm Fengyi Chen 👋
 
-I am a prospective PhD candidate in Computer Science and Artificial Intelligence, focusing on bridging vision and language in dynamic environments. 
+I am an Independent Researcher in Computer Science and Artificial Intelligence now, focusing on bridging vision and language in dynamic environments. 
+I completed a master's degree at the National University of Singapore from 2024 to 2026.
+
+Current status: PhD applicant
 
 ## 🔬 Research Interests
 - **Vision-Language Models (VLM)**
