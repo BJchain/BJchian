@@ -12,11 +12,10 @@ I am a prospective PhD candidate in Computer Science and Artificial Intelligence
 
 ## 💻 Tech Stack & Tools
 - **Deep Learning:** PyTorch, Hugging Face, xFormers
-- **3D/Vision Processing:** MeshLab, ActionMesh, UniRig
-- **Workflow:** Linux, tmux, VS Code Remote SSH (with Reverse Port Forwarding)
+- **Workflow:** Linux, tmux, VS Code Remote SSH 
 
 ## 🚀 Recent Work
-- Building robust pipelines for benchmark dataset generation (e.g., Phys4D-Halluc).
-- Evaluating and benchmarking open-source 3D/4D vision repositories (Thinking-in-Dynamics, MLLM-4D).
+- Building robust pipelines for benchmark dataset generation.
+- Evaluating and benchmarking open-source 3D/4D vision repositories.
 
 📫 **How to reach me:** [e1350039@u.nus.edu]
