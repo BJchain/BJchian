@@ -1,7 +1,7 @@
 # BJchian
 Hi! Fengyi extends greetings to U. Here is my profile.
 
-# Hi there, I'm 丰艺 👋
+# Hi there, I'm Fengyi Chen 👋
 
 I am a prospective PhD candidate in Computer Science and Artificial Intelligence, focusing on bridging vision and language in dynamic environments. 
 
